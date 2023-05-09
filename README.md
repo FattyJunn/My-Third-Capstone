@@ -1,12 +1,12 @@
 # My Third Capstone
 ## Analysis on Adidas sales using PowerBI
 
-![Imgur](https://imgur.com/TXyDIrX)
-![Imgur](https://imgur.com/0CvI92S)
-![Imgur](https://imgur.com/kdGXUyK)
-![Imgur](https://imgur.com/7Y7mepy)
-![Imgur](https://imgur.com/QAWeppS)
-![Imgur](https://imgur.com/M0e7uvq)
+![Imgur](https://imgur.com/TXyDIrX.png)
+![Imgur](https://imgur.com/0CvI92S.png)
+![Imgur](https://imgur.com/kdGXUyK.png)
+![Imgur](https://imgur.com/7Y7mepy.png)
+![Imgur](https://imgur.com/QAWeppS.png)
+![Imgur](https://imgur.com/M0e7uvq.png)
 
 [Link to dataset used](https://www.kaggle.com/datasets/heemalichaudhari/adidas-sales-dataset)
 
